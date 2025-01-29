@@ -31,4 +31,8 @@ I combine creativity with analytical skills to explore new grounds and share wha
 
 Feel free to reach out if you're interested in Go programming, technical writing, or educational content creation!
 
+---
 
+> Simplicity is the ultimate sophistication.
+
+– Leonardo da Vinci
