@@ -1,8 +1,12 @@
 # Christoph Berger
 
-> Explorer, Builder, Value Creator
+## Explorer, Builder, Value Creator
 
-I'm a passionate technical educator specializing in Go (Golang) 
+Wholehearted Gopher.
+Passionate Writer.
+Skilled Troubleshooter.
+Open-minded Explorer.
+Creative Builder.
 
 ## What I Do
 - Create and maintain Go-focused educational content
