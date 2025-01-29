@@ -15,7 +15,7 @@ I bring almost three decades of IT industry experience, with deep expertise in t
 
 ## Educational Content
 - Blog: [AppliedGo.net](https://appliedgo.net)
-- [The Applied Go Weekly Newsletter](https://newsletter.appliedgo.net/archive)
+- Newsletter: [The Applied Go Weekly Newsletter](https://newsletter.appliedgo.net/archive)
 - Courses: [AppliedGo.com](https://appliedgo.com)
 - Course Blog: [AppliedGo.com/blog](https://appliedgo.com/blog)
 - YouTube: [youtube.com/c/AppliedGo](https://youtube,com/c/AppliedGo)
