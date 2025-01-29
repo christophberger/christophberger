@@ -18,7 +18,7 @@ I bring almost three decades of IT industry experience, with deep expertise in t
 - Newsletter: [The Applied Go Weekly Newsletter](https://newsletter.appliedgo.net/archive)
 - Courses: [AppliedGo.com](https://appliedgo.com)
 - Course Blog: [AppliedGo.com/blog](https://appliedgo.com/blog)
-- YouTube: [youtube.com/c/AppliedGo](https://youtube,com/c/AppliedGo)
+- YouTube: [youtube.com/c/AppliedGo](https://youtube.com/c/AppliedGo)
 
 ## My Mission
 I combine creativity with analytical skills to explore new grounds and share what I discover. My goal is to make the world a better place by helping others master Go programming through clear, concise, and practical education.
