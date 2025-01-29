@@ -1,8 +1,6 @@
-![Golden Trees](goldentrees-stripe.webp)
+![Golden Trees](goldentrees-logo.webp)
 
 # Christoph Berger
-
-![CB](CBCircleSand.png)
 
 ## Explorer, Builder, Value Creator
 
